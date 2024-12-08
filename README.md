@@ -24,4 +24,4 @@ Here are the figures:
 
 At longer times-cales, sealevel rise is claimed ([Dangendorf etal 2014](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2014JC009901)) to be related to the changes in the surrounding ocean. Here, a simplistic link between the global mean temperature from [Copernicus Climate](https://climate.copernicus.eu/copernicus-2024-virtually-certain-be-warmest-year-and-first-year-above-15degc) These values were computed by averaging temperatures from the ERA5 reanalysis.
 
-![Vlissingen with linear regression on global temperature](https://raw.githubusercontent.com/robot144/sealevelrise/refs/heads/main/figures/series_$(station)_including_regression_global_temperature.png)
+![Vlissingen with linear regression on global temperature](https://raw.githubusercontent.com/robot144/sealevelrise/refs/heads/main/figures/series_vlissingen_including_regression_global_temperature.png)
